@@ -1,0 +1,10 @@
+Flask
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+xgboost
+openpyxl
+gunicorn
