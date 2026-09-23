@@ -30,6 +30,12 @@ Rising Waters – Flood Prediction Using Machine Learning is a web-based applica
 
 ---
 
+## 🚀 Live Demo
+
+🌐 **Try the application here:**
+
+https://rising-waters-zpgd.onrender.com/
+
 
 
 ## 🚀 Features
